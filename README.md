@@ -1,9 +1,7 @@
-## Hello! I’m Milo Akerman
+## <!DOCTYPE milo>
 
-A little about me:
-- 👀 I’m interested in **programming, game design, Pitman shorthand, and Ghibli movies!**
-- 💻 I code in **JavaScript, Python, C#, HTML & CSS and Java.**
-- 🌱 I’m currently working on **CircuitPython projects and indie game dev with Unity.**
-- 📫 You can reach me at @Meelo#6036
-
-*More soon!*
+What am I doing?
+- 🎓 Computer Engineering B.Sc. at Brown University 
+- 📝 Research on [µW-level TinyML biometric wearables](https://e4e.ucsd.edu/), [lightning-speed accelerometers for mechanics research](https://appliedmechanicslab.github.io/Team.html)
+- 🌱 Projects in game development, budget engineering, and instrument design
+- 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/milo-akerman/)
