@@ -1,4 +1,4 @@
-## <!DOCTYPE milo>
+## \<!DOCTYPE milo>
 
 What am I doing?
 - 🎓 Computer Engineering B.Sc. at Brown University 
